@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alperbasturk
 - 👀 I’m interested in science, especially deep learning.
-- 🌱 I’m currently learning to be a more patient, calmer, and better person.
+- 🌱 Currently, I’m learning to be a more patient, calmer, and better person.
 - 💞️ I’m looking to collaborate on developing new deep learning architectures.
 - 📫 How to reach me: alperbasturk@gmail.com
 
